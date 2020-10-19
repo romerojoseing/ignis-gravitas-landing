@@ -1,4 +1,4 @@
-# Frontend Mentor Challenge - Dev Challenges - Community Challenge : title of challenge
+<!-- # Frontend Mentor Challenge - Dev Challenges - Community Challenge : title of challenge
 
 _This is a challenge from Frontend Mentor Challenge - Dev Challenges - Community Challenge, specialized in frontend develop, is a title of challenge._
 
@@ -46,7 +46,7 @@ _Technologies used in the project:_
 * [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
 * [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
 
-<br>
+<br> -->
 
 ## Author ✒️
 
