@@ -2935,6 +2935,13 @@ p {
   }
 
   .bg-half-170{
+    padding: 150px 50px 245px 50px !important;
+  }
+}
+
+@media (max-width: 436px) {
+
+  .bg-half-170{
     padding: 150px 50px 220px 50px !important;
   }
 }
@@ -2963,7 +2970,7 @@ p {
 }
 
 .bg-half-170 {
-  padding: 150px 0px 200px 0px !important;
+  padding: 150px 0px 200px 0px;
 }
 
 .bg-half {
