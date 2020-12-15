@@ -2124,6 +2124,7 @@ button:not(:disabled) {
   }
 }
 
+
 body {
   font-family: "Roboto", sans-serif;
   overflow-x: hidden !important;
@@ -5206,5 +5207,15 @@ p {
 .footer.footer-bar {
   padding: 30px 0;
   border-top: 1px solid #283353;
+}
+
+
+@media only screen and (min-width: 1800px){
+  .f-container{
+    margin-top: 80px;
+  }
+  .bg-half-170 {
+      padding: 150px 0px 230px 0px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
