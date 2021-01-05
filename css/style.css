@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+html{
+  overflow-x: hidden;
+}
+
 .font-bebas{
   font-family: 'Bebas Neue', sans-serif;
 }
@@ -612,16 +616,16 @@ background: linear-gradient(180deg, rgba(53,102,173,1) 3%, rgba(87,7,170,1) 97%)
 }
 
 .btn-soft-primary {
-  background-color: rgba(47, 85, 212, 0.2) !important;
-  border: 1px solid rgba(47, 85, 212, 0.2) !important;
-  color: #2f55d4 !important;
+  background-color: #E4007C !important;
+  border: 1px solid #E4007C !important;
+  color: #ffffff !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(47, 85, 212, 0.3);
           box-shadow: 0 3px 5px 0 rgba(47, 85, 212, 0.3);
 }
 
 .btn-soft-primary:hover, .btn-soft-primary:focus, .btn-soft-primary:active, .btn-soft-primary.active, .btn-soft-primary.focus {
-  background-color: #2f55d4 !important;
-  border-color: #2f55d4 !important;
+  background-color: #bd0168 !important;
+  border-color:#bd0168 !important;
   color: #ffffff !important;
 }
 
@@ -5292,6 +5296,17 @@ p {
 .footer.footer-bar {
   padding: 30px 0;
   border-top: 1px solid #283353;
+}
+
+
+@media (max-width: 578px) {
+  .footer{
+    padding-top: 60px;
+  }
+
+  .bg-baner-f{
+    margin-top: -60px;
+  }
 }
 
 
