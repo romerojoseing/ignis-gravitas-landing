@@ -2716,6 +2716,7 @@ p {
   padding: 0 0 6px;
   letter-spacing: 1px;
   line-height: 68px;
+  max-width: 70%;
 }
 
 .logo-navbar{
