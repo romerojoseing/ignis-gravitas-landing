@@ -373,6 +373,16 @@ a.text-footer:hover, a.text-footer:focus {
   font-size: 90%;
 }
 
+.card-title{
+  letter-spacing: 1px;
+  font-size: 56px;
+  color: #223D89;
+  font-weight: 500;
+  line-height: 1.1;
+  margin-bottom: -15px;
+  margin-top: 20px;
+}
+
 .card-ig{
   background: linear-gradient(0deg, rgba(53,102,173,1) 5%, rgba(58,88,173,1) 44%, rgba(87,7,170,1) 100%);
   min-height: 280px;
@@ -3267,6 +3277,14 @@ p {
 
 .bg-half-170 {
   padding: 150px 0px 200px 0px;
+}
+
+.bg-half-150{
+  padding: 150px 0px 100px 0px !important;
+}
+
+.logo-login{
+  width: 50%;
 }
 
 .bg-half {
