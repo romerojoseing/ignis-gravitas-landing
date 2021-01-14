@@ -188,6 +188,22 @@ a.text-dark:hover, a.text-dark:focus {
   letter-spacing: 0.6px;
 }
 
+.text-muted-contraseña{
+  color: #262626 !important;
+  font-size: 20px;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  margin: 15px 0px;
+}
+
+.text-muted-priv{
+  color: #262626 !important;
+  font-size: 16px;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  margin: 15px 0px;
+}
+
 .text-roles{
   color: #148ea1;
   font-size: 20px;
@@ -304,10 +320,6 @@ a {
   transition: all 0.5s ease;
 }
 
-a.text-footer:hover, a.text-footer:focus {
-  color: #181e30 !important;
-}
-
 .bg-black {
   background: #161c2d !important;
 }
@@ -381,6 +393,22 @@ a.text-footer:hover, a.text-footer:focus {
   line-height: 1.1;
   margin-bottom: -15px;
   margin-top: 20px;
+}
+
+.card-text{
+  letter-spacing: 1px;
+  font-size: 30px;
+  color: #223D89;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.card-priv{
+  letter-spacing: 1px;
+    font-size: 24px;
+    color: #223D89;
+    font-weight: 500;
+    line-height: 1.1;
 }
 
 .card-ig{
@@ -555,6 +583,14 @@ a.text-footer:hover, a.text-footer:focus {
 
 .input-i{
   border-radius: 50px !important;
+}
+
+.btn:hover{
+  opacity: 0.8;
+}
+
+a:hover{
+  opacity: 0.8;
 }
 
 .btn-ig{
@@ -2083,8 +2119,8 @@ button:not(:disabled) {
 }
 
 .social-icon li a:hover {
-  background-color: #2f55d4;
-  border-color: #2f55d4 !important;
+  background-color: #E4007C ;
+  border-color: #E4007C  !important;
   color: #ffffff !important;
 }
 
@@ -3281,6 +3317,10 @@ p {
 
 .bg-half-150{
   padding: 150px 0px 100px 0px !important;
+}
+
+.bg-half-140{
+  padding: 110px 0px 130px 0px !important;
 }
 
 .logo-login{
