@@ -223,7 +223,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-subtitles{
   color: #262626 !important;
-  font-size: 35px;
+  font-size: 20px;
   line-height: normal;
   letter-spacing: 0.6px;
   
@@ -237,6 +237,10 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 @media (max-width: 992px) {
+  .btn-t{
+    text-align: center;
+  }
+
   .text-muted {
     width: 100%;
     text-align: center;
@@ -2361,7 +2365,6 @@ p {
 
 .arrow-scroll{
   width: 30px;
-  margin-bottom: 50px;
 }
 
 .para-desc {
@@ -5370,7 +5373,7 @@ p {
   }
 
   .bg-baner-f{
-    margin-top: -60px;
+    margin-top: -61px;
   }
 }
 
