@@ -1,9 +1,9 @@
-<!-- # Frontend Mentor Challenge - Dev Challenges - Community Challenge : title of challenge
+# Website: Ignis Gravitas
 
-_This is a challenge from Frontend Mentor Challenge - Dev Challenges - Community Challenge, specialized in frontend develop, is a title of challenge._
+_Website - Ignis Gravitas company dedicated to help startups grow._
 
-## [Try the live demo](https://github.com/romerojoseing/repo-model) ⚡
-![Thumbnail](https://github.com/romerojoseing/email/raw/master/img/img.png?raw=true)
+## [Try the live demo](https://romerojoseing.github.io/ignis-gravitas-landing/) ⚡
+![Thumbnail](https://github.com/romerojoseing/test/blob/master/assets/img/portfolio/romerojose.png?raw=true)
 
 <br>
 
@@ -28,7 +28,7 @@ Any browser to open the project.
 _To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
 ```ssh
-  $ git clone https://github.com/romerojoseing/repo-model.git
+  $ git clone https://github.com/romerojoseing/ignis-gravitas-landing.git
 ```
 
 <br>
@@ -45,8 +45,10 @@ _Technologies used in the project:_
 
 * [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
 * [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
+* [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animations and functionalities.
+* [Bootstrap 4](https://getbootstrap.com/) - Framework for CSS.
 
-<br> -->
+<br>
 
 ## Author ✒️
 
