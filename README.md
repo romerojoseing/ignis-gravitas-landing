@@ -3,7 +3,7 @@
 _Website - Ignis Gravitas company dedicated to help startups grow._
 
 ## [Try the live demo](https://romerojoseing.github.io/ignis-gravitas-landing/) ⚡
-![Thumbnail](https://github.com/romerojoseing/test/blob/master/assets/img/portfolio/romerojose.png?raw=true)
+![Thumbnail](https://github.com/romerojoseing/ignis-gravitas-landing/blob/main/img/ignisgravitas.png?raw=true)
 
 <br>
 
