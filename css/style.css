@@ -206,9 +206,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-roles{
   color: #148ea1;
-  font-size: 20px;
+  font-size: 13px;
   line-height: normal;
-  width: 90%;
   letter-spacing: 0.6px;
 }
 
