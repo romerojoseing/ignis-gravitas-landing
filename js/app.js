@@ -26,6 +26,10 @@
             'overflow': 'visible'
         });
     }); 
+
+    $( document ).ready(function() {
+        $('#modalLanguage').modal('toggle')
+    });
     
     // Menu
     $('.navbar-toggle').on('click', function (event) {
