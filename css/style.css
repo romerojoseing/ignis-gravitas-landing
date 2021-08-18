@@ -204,6 +204,13 @@ a.text-dark:hover, a.text-dark:focus {
   margin: 15px 0px;
 }
 
+.text-roles-t{
+  color: #148ea1;
+  font-size: 16px;
+  line-height: normal;
+  letter-spacing: 0.6px;
+}
+
 .text-roles{
   color: #148ea1;
   font-size: 13px;
@@ -246,6 +253,10 @@ a.text-dark:hover, a.text-dark:focus {
   }
   
   .text-roles{
+    width: 100%;
+  }
+
+  .text-roles-t{
     width: 100%;
     text-align: center;
   }
